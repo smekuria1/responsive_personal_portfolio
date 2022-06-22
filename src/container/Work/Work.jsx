@@ -37,7 +37,7 @@ const Work = () => {
         My projects <span>Portfolio</span>
       </h2>
       <div className="app__work-filter">
-        {['CRUD API', 'Web App', 'React.js', 'Python', 'Discord.js', 'All'].map(
+        {['Web App', 'React.js', 'Python', 'Discord.js', 'All'].map(
           (item, index) => (
             <div
               key={index}
