@@ -43,6 +43,7 @@ const Work = () => {
           "Node.js",
           "Express",
           "React.js",
+          "Golang",
           "Python",
           "Discord.js",
           "TypeScript/API",
